@@ -1,0 +1,20 @@
+{
+  "name": "httpreturner",
+  "version": "0.0.1",
+  "description": "様々な状態を返すテスト用webサーバ",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/south-str/httpReturner.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/south-str/httpReturner/issues"
+  },
+  "homepage": "https://github.com/south-str/httpReturner#readme"
+}
