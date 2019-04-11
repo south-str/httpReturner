@@ -62,3 +62,6 @@ typings/
 
 # vim swap file
 .swp
+
+# cert key
+.key/*.pem
